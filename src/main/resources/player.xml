@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Player player_id="123" rating="9.4567" since="2021-04-16">
+	<nickname>Steel</nickname>
+	<rank>3</rank>
+	<experience>4.5</experience>
+	<birthdate>03/06/2004</birthdate>
+</Player>

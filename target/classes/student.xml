@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student student_id="12" weight="38.456" birthdate="2012-März-22">
+	<grade>4</grade>
+	<firstname>Lisa</firstname>
+	<lastname>Simpson</lastname>
+	<rating>1.12</rating>
+	<schoolStartedAt>2024-03-22</schoolStartedAt>
+</Student>
