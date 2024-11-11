@@ -14,10 +14,9 @@ import java.nio.file.StandardOpenOption;
  */
 public class IO_Access {
   public static void writeStringToFile(String xmlString, File file) throws IOException {
-    Files.writeString(file.toPath(), xmlString);
   }
 
   public static String readStringFromFile(File file) throws IOException {
-    return Files.readString(file.toPath());
+    return ""
   }
 }
